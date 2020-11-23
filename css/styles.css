@@ -1,0 +1,150 @@
+body{
+
+  margin: 0;
+  text-align: center;
+  font-family: 'Goldman', cursive;
+color: grey;
+}
+h1{
+  font-family: 'Goldman', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #fd3a69;
+line-height: 2;
+}
+h2{
+  font-family: 'Goldman', cursive;
+font-size: 2.5rem;
+margin: 50px auto 0px auto;
+font-weight: normal;
+color: red;
+
+
+}
+h3{
+  color: white;
+}
+.top-container{
+  background-color:#28abb9;
+padding:200px;
+  position: relative;
+
+}
+.middle-container{
+
+background-color: yellow;
+
+}
+
+.bottom-container{
+padding: 50px 0px 20px;
+background-color: pink;
+
+}
+.top-could{
+  position: absolute;
+  right: 500px;
+  top: 70px;
+
+}
+
+.copyright{
+  color: orange;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.bottom-could{
+  position:absolute;
+  left: 450px;
+  bottom: 400px;
+}
+hr{
+  border:dotted;
+  border-bottom: none;
+  width: 4%;
+  border-color: green;
+  border-width: 5px;
+margin: 100px auto;
+}
+.puppy{
+  width:30%;
+  margin: 50px auto 0px auto;
+  text-align:right ;
+  line-height: 2;
+
+}
+.puppy img{
+  width: 50%;
+  float: left ;
+  margin-left: 30px;
+margin-top: auto ;
+height: 250px;
+
+
+}
+.Mypetfood{
+width: 30%;
+text-align:left;
+margin:    150px 480px 150px auto ;
+line-height: 2;
+}
+.petfood{
+width: 50%;
+float: right;
+margin-right:  30px;
+margin-top:  auto;
+margin-left: 100px
+height: 150px;
+}
+a{
+  color: green;
+  margin: 10px 10px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: orange;
+}
+.circle-cropped{
+  margin: 50px auto 0px auto;
+}
+
+.BUTTON_CVQ {
+   background: #23E0EB;
+   background-image: -webkit-linear-gradient(top, #23E0EB, #18448B);
+   background-image: -moz-linear-gradient(top, #23E0EB, #18448B);
+   background-image: -ms-linear-gradient(top, #23E0EB, #18448B);
+   background-image: -o-linear-gradient(top, #23E0EB, #18448B);
+   background-image: -webkit-gradient(to bottom, #23E0EB, #18448B);
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 12px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 0px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #FFFFFF 5px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_CVQ:hover {
+   border: solid rgba(237, 51, 177, 0.99) 5px;
+   background: #AFB714;
+   background-image: -webkit-linear-gradient(top, #AFB714, #582664);
+   background-image: -moz-linear-gradient(top, #AFB714, #582664);
+   background-image: -ms-linear-gradient(top, #AFB714, #582664);
+   background-image: -o-linear-gradient(top, #AFB714, #582664);
+   background-image: -webkit-gradient(to bottom, #AFB714, #582664);
+   -webkit-border-radius: 50px;
+   -moz-border-radius: 50px;
+   border-radius: 12px;
+   text-decoration: none;
+}
